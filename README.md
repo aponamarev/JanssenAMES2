@@ -6,6 +6,6 @@ The goal of this project is to demostrate the process of selecting and training 
 ### Installation
 
 The project is implemented in Python3.6. All required packages are specified in requirement.txt
-'''
+```bash
 pip install -r requirements.txt
-'''
+```
